@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-org/my-project.git
+    repoURL: https://github.com/arch-hcra/lop_it.git
     targetRevision: main  
     path: k8s/overlays/developer/app1
   destination:
