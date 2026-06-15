@@ -1,3 +1,3 @@
 appName: app2
 dockerImage: "docker.io/archcra/app2"
-infraRepoTargetPath: "k8s/overlays/dev/app2"  
+infraRepoTargetPath: "k8s/overlays/developer/app2"  
