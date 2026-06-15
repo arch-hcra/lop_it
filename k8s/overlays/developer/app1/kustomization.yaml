@@ -5,5 +5,9 @@ resources:
   - ../../base/app1
 
 images:
-  - name: archcra/app1
+  - name: PLACEHOLDER_IMAGE
+    newName: docker.io/archcra/app1
     newTag: developer-123
+
+
+
