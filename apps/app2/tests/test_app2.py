@@ -1,4 +1,4 @@
-from app1 import app
+from app2 import app
 import pytest
 
 @pytest.fixture

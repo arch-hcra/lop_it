@@ -11,4 +11,4 @@ COPY src/ .
 ENV PORT=5023
 EXPOSE 5023
 
-CMD ["python", "app2.py"]
+CMD ["python", "app2.py","tests/"]
