@@ -3,5 +3,5 @@ kind: Kustomization
 resources:
   - ../../../base/app1
 images:
-  - name: archcra/app1
+  - name: docker.io/archcra/app1
     newTag: app1-developer-51

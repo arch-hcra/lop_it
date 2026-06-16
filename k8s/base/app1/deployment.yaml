@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app1
-        image: archcra/app1:latest
+        image: docker.io/archcra/app1:latest
         ports:
         - containerPort: 5022
