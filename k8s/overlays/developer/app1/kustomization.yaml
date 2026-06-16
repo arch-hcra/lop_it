@@ -5,4 +5,4 @@ resources:
 images:
   - name: PLACEHOLDER_IMAGE
     newName: docker.io/archcra/app1
-    newTag: app1-developer-51
+    newTag: app1-developer-64
