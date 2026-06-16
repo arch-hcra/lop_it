@@ -19,6 +19,3 @@ spec:
         image: archcra/app1:latest
         ports:
         - containerPort: 5022
-        env:
-        - name: FLASK_ENV
-          value: "production"
