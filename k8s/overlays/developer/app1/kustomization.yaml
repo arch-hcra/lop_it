@@ -3,11 +3,6 @@ kind: Kustomization
 resources:
   - ../../../base/app1
 images:
-<<<<<<< HEAD
   - name: PLACEHOLDER_IMAGE
     newName: docker.io/archcra/app1
     newTag: app1-developer-51
-=======
-  - name: docker.io/archcra/app1
-    newTag: app1-88d3fb4
->>>>>>> a49ad8311cc9f394cc679232f637b6d7b430b013
