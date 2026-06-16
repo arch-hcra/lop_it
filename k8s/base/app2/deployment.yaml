@@ -16,9 +16,6 @@ spec:
     spec:
       containers:
       - name: app2
-        image: archcra/app2:latest
+        image: docker.io/archcra/app2:latest
         ports:
         - containerPort: 5023
-        env:
-        - name: FLASK_ENV
-          value: "production"
