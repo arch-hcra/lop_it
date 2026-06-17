@@ -4,4 +4,4 @@ resources:
   - ../../../base/app2
 images:
   - name: docker.io/archcra/app2
-    newTag: app2-241e5fc
+    newTag: app2-d2e094f
